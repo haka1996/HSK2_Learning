@@ -1,0 +1,55 @@
+{
+  "id": 1,
+  "name": "Introductions & Greetings",
+  "date": "-",
+  "topic": "HSK 1.1",
+  "concepts": [
+    {
+      "title": "Sentence Structure: Subject + Verb + Object",
+      "explanation": "Chinese follows a Subject-Verb-Object order, just like English.",
+      "example_zh": "我叫李明。",
+      "example_pinyin": "Wǒ jiào Lǐ Míng.",
+      "example_en": "I am called Li Ming.",
+      "note": "叫 (jiào) means 'to be called'. Use it to introduce your name."
+    },
+    {
+      "title": "是 (shì) — The 'To Be' Verb",
+      "explanation": "是 links a subject to a noun. It means 'am / is / are'.",
+      "example_zh": "我是印度人。",
+      "example_pinyin": "Wǒ shì Yìndùrén.",
+      "example_en": "I am Indian.",
+      "note": "Unlike English, 是 is not used before adjectives."
+    },
+    {
+      "title": "吗 (ma) — Yes/No Question Particle",
+      "explanation": "Add 吗 at the end of a statement to turn it into a yes/no question.",
+      "example_zh": "你是印度人吗？",
+      "example_pinyin": "Nǐ shì Yìndùrén ma?",
+      "example_en": "Are you Indian?",
+      "note": "No need to rearrange the sentence — just add 吗."
+    },
+    {
+      "title": "什么 (shénme) — What",
+      "explanation": "什么 means 'what' and stays in the same position as the answer.",
+      "example_zh": "你叫什么名字？",
+      "example_pinyin": "Nǐ jiào shénme míngzi?",
+      "example_en": "What is your name?",
+      "note": "Chinese question words stay in place."
+    }
+  ],
+  "grammar": [
+    { "zh": "你好！", "pinyin": "Nǐ hǎo!", "en": "Hello!" },
+    { "zh": "我叫李明。", "pinyin": "Wǒ jiào Lǐ Míng.", "en": "My name is Li Ming." },
+    { "zh": "你叫什么名字？", "pinyin": "Nǐ jiào shénme míngzi?", "en": "What is your name?" },
+    { "zh": "很高兴认识你。", "pinyin": "Hěn gāoxìng rènshi nǐ.", "en": "Nice to meet you." },
+    { "zh": "我是印度人。", "pinyin": "Wǒ shì Yìndùrén.", "en": "I am Indian." }
+  ],
+  "vocab": [
+    { "zh": "你好", "pinyin": "nǐ hǎo", "en": "hello" },
+    { "zh": "名字", "pinyin": "míngzi", "en": "name" },
+    { "zh": "认识", "pinyin": "rènshi", "en": "to know / meet" },
+    { "zh": "高兴", "pinyin": "gāoxìng", "en": "happy / glad" },
+    { "zh": "我", "pinyin": "wǒ", "en": "I / me" },
+    { "zh": "你", "pinyin": "nǐ", "en": "you" }
+  ]
+}
